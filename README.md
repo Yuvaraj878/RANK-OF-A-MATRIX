@@ -15,12 +15,14 @@ Assume another variable in that variable give np.linalg
 ### Step 5:
 Then print the result.
 ## Program:
+```
 import numpy as np
 A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 B = np.linalg.matrix_rank(A)
 print(B)
+```
 ## Output:
-
+![OUTPUT](./maths%20ex%202.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
