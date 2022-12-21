@@ -20,7 +20,6 @@ A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 B = np.linalg.matrix_rank(A)
 print(B)
 ## Output:
-file:///home/sec/Pictures/Screenshots/maths%20ex%202.png![image](https://user-images.githubusercontent.com/118622554/208283744-24073a73-76a5-4287-b98c-881dee440b79.png)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
